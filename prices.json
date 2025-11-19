@@ -1,0 +1,41 @@
+{
+  "MP9 | Starlight Protector||Field-Tested||EUR": {
+    "time": 1762605295.6395178,
+    "data": {
+      "price": 89.3,
+      "url": "https://steamcommunity.com/market/listings/730/MP9%20%7C%20Starlight%20Protector%20%28Field-Tested%29",
+      "growth": {
+        "24h": "+1.94$",
+        "7d": "-0.97$",
+        "30d": "+7.76$"
+      },
+      "source": "local"
+    }
+  },
+  "AK-47 | Nightwish||Field-Tested||EUR": {
+    "time": 1762605299.2124293,
+    "data": {
+      "price": 80.78,
+      "url": "https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Nightwish%20%28Field-Tested%29",
+      "growth": {
+        "24h": "+1.76$",
+        "7d": "-0.88$",
+        "30d": "+7.02$"
+      },
+      "source": "local"
+    }
+  },
+  "AWP | Printstream||Field-Tested||EUR": {
+    "time": 1762605864.9503477,
+    "data": {
+      "price": 67.5,
+      "url": "https://steamcommunity.com/market/listings/730/AWP%20%7C%20Printstream%20%28Field-Tested%29",
+      "growth": {
+        "24h": "+1.47$",
+        "7d": "-0.73$",
+        "30d": "+5.87$"
+      },
+      "source": "local"
+    }
+  }
+}

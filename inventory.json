@@ -1,0 +1,36 @@
+{
+  "AK-47 | пожелание на ночь": {
+    "wear": "Field-Tested",
+    "amount": 1
+  },
+  "AK-47 | ред лайн": {
+    "wear": "Field-Tested",
+    "amount": 1
+  },
+  "1788052882": {
+    "MP9 | Starlight Protector": {
+      "wear": "Field-Tested",
+      "amount": 1
+    },
+    "AK-47 | Nightwish": {
+      "wear": "Field-Tested",
+      "amount": 1
+    },
+    "AWP | Printstream": {
+      "wear": "Field-Tested",
+      "amount": 1
+    }
+  },
+  "7172903792": {
+    "AK-47 | Элитное снаряжение": {
+      "wear": "Well-Worn",
+      "amount": 1
+    }
+  },
+  "1230711427": {
+    "M9 Bayonet | Пизда": {
+      "wear": "Battle-Scarred",
+      "amount": 1
+    }
+  }
+}

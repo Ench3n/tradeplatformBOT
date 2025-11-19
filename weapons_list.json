@@ -1,0 +1,10 @@
+{
+  "Винтовки": ["AK-47", "M4A4", "M4A1-S", "AUG", "SG 553", "Galil AR", "FAMAS"],
+  "ПП": ["MAC-10", "MP9", "MP7", "UMP-45", "P90", "PP-Bizon"],
+  "Пистолеты": ["USP-S", "Glock-18", "P250", "Five-SeveN", "CZ75-Auto", "Desert Eagle", "Dual Berettas", "Tec-9"],
+  "Снайперки": ["AWP", "SSG 08", "SCAR-20", "G3SG1"],
+  "Дробовики": ["Nova", "XM1014", "Sawed-Off", "MAG-7"],
+  "Пулеметы": ["M249", "Negev"],
+  "Ножи": ["Karambit", "Bayonet", "Butterfly Knife", "M9 Bayonet", "Talon Knife", "Flip Knife", "Gut Knife"],
+  "Перчатки": ["Sport Gloves", "Moto Gloves", "Specialist Gloves", "Driver Gloves", "Hand Wraps"]
+}
