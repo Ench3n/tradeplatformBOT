@@ -26,11 +26,6 @@ if not TOKEN:
 bot = Bot(token=TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
 
-# ✅ ОБНОВЛЕННЫЕ ПУТИ ДЛЯ HEROKU
-# Создаем папку data если её нет
-if not os.path.exists('data'):
-    os.makedirs('data')
-
 # Файлы данных теперь в папке data/
 INVENTORY_FILE = "data/inventory.json"
 USER_SETTINGS_FILE = "data/user_settings.json"
@@ -688,4 +683,5 @@ if __name__ == "__main__":
     try:
         asyncio.run(run_polling())
     except KeyboardInterrupt:
+
         logger.info("Stopped by user")
